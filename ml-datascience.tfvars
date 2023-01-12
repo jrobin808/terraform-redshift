@@ -1,12 +1,12 @@
-aws_region = "us-east-2"
+aws_region = "us-east-1"
 
-rs_cluster_identifier = "sample-cluster"
+rs_cluster_identifier = "ml-datascience"
 
-rs_database_name = "samplecluster"
+rs_database_name = "datascience"
 
-rs_master_username = "sampleuser"
+rs_master_username = "dsuser"
 
-rs_master_pass = "V6fkz5HoZRhOLT3"
+rs_master_pass = "TLCh21bSBd19PV8"
 
 rs_nodetype = "dc2.large"
 
@@ -20,4 +20,4 @@ redshift_subnet_cidr_2 = "10.0.2.0/24"
 
 deployed_by = "jason"
 
-environment = "dev"
+environment = "ml-data"
